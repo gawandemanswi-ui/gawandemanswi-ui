@@ -28,12 +28,12 @@ problems, and continuously improving my technical skills.
 
 🚀 Featured Projects
 
-### 🤖 Intelligent Research Assistant(Currently Working)
+### 🤖(IRIS) Intelligent Research Information System(Currently Working)
 An AI-powered research assistant designed to support literature
 review, paper analysis, summarization, citation analysis, and
 research-gap identification.
 
-Technologies:AI, NLP, Knowledge Graphs, Agentic AI
+Technologies:AI, NLP, Knowledge Graphs, Agentic AI,Bootstrap,Rectjs.
 ---
 ### 🌾 Farm Management System
 An intelligent farm management application designed to help manage
