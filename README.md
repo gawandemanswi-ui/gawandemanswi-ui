@@ -28,7 +28,7 @@ problems, and continuously improving my technical skills.
 
 🚀 Featured Projects
 
-### 🤖 Intelligent Research Assistant
+### 🤖 Intelligent Research Assistant(Currently Working)
 An AI-powered research assistant designed to support literature
 review, paper analysis, summarization, citation analysis, and
 research-gap identification.
